@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AlumniSans-Bold.ttf",
+      "sha1": "31209831b568af29894b6a83e0fd6ddbed930b92"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-BoldItalic.ttf",
+      "sha1": "4300308333c57ca2dfa1c9ff2b7b66167b9c949b"
+    },
+    {
+      "path": "assets/fonts/Timmana-Regular.ttf",
+      "sha1": "604e64b63a4347b2b78252189afe163a6d7956a8"
+    }
+  ]
+}
